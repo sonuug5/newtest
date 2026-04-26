@@ -6609,7 +6609,7 @@
         "name": "Star Sports 1 Hindi",
         "id": "362",
         "category": "Sports",
-        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
         "keyId": "8ea9b607549252068e260a5f4d7dd321",
         "key": "350c0aaffedf51cc1502e9543c7c885e",
         "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg"
@@ -6645,7 +6645,7 @@
         "name": "Star Sports 2 Hindi",
         "id": "1985",
         "category": "Sports",
-        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_1_SD_BTS/WDVLive/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_1_SD_BTS/output/index.mpd",
         "keyId": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
         "key": "67a96992e6406606f3480ab58d7f540c",
         "logo": "https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg"
@@ -6726,7 +6726,7 @@
         "name": "Star Sports 2 Tamil",
         "id": "2853",
         "category": "Sports",
-        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/output/index.mpd",
         "keyId": "3979aae1ca51561c9e8074cd618b3864",
         "key": "ae12e0e147d3e76cfa62bfb99bc07109",
         "logo": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg"
